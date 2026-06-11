@@ -25,8 +25,8 @@ Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 
 
 
 Program for Multivariate Linear Regression
-Developed By:s.aadithyan
-Register Number:212225240001
+Developed By:mukesh,t
+Register Number:212225230182
 ```
 ```
 import pandas as pd
